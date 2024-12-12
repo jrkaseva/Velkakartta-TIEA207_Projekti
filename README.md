@@ -41,7 +41,7 @@ Tervetuloa TIEA207 Projektikurssin repositorioon!
 - Mikäli kohtaat ongelmia, tarkista ensin virheilmoitukset ja varmista, että kaikki riippuvuudet on asennettu oikein.
 ----------------------------------------------------------------------------------------------------------------------
 
-## Deployattu versio
+### Deployattu versio
 - Sovellus käynnistyy URL:n painettua, hetki menee sen latautuessa. 
 - Deployattu versio löytyy [Renderistä](https://debtmap-2024.onrender.com/)
   
