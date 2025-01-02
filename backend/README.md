@@ -34,7 +34,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 The deafult port for the server is 3001, as seen in the .env content
 The server should now be running and accessible at `http://localhost:3001`.
 
-Fetched API data can be observed at `localhost:3001/api/<data>` where <data> can be one of the following:
+Fetched API data can be observed at `localhost:3001/api/<data>` where `<data>` can be one of the following:
 - population (Population countries)
 - gdp (Gross domestic product countries)
 - debt (1st general government debt dataset)
