@@ -17,7 +17,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
     npm install
     ```
     
-    if errors occur, add `express axios cors`
+    If needed, install missing dependencies, such as `axios`, `cors` or `express`. Check error messages if missing dependencies.
 
 ## Running the Server
 
