@@ -14,8 +14,10 @@ Ensure you have [Node.js](https://nodejs.org/) installed.
 
 2. Install dependencies:
     ```sh
-    npm install express axios cors
+    npm install
     ```
+    
+    if errors occur, add `express axios cors`
 
 ## Running the Server
 
